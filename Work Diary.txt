@@ -1,0 +1,12 @@
+Work Diary - z5117928
+
+Week 1:
+
+Grouped formed. I created a Jira account and
+joined both the Jira and Github groups. Together with Nanway I
+worked on the epic stories and individual user stories. I also discussed
+with the team what project features we wanted to have in the project,
+what the projected outcome will look like and the APIs we might use
+in the final product.
+
+Week 2:
