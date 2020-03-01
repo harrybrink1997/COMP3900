@@ -10,3 +10,8 @@ what the projected outcome will look like and the APIs we might use
 in the final product.
 
 Week 2:
+Group furthered development of project. A MVP was proposed and voted
+on by group. I research similar software to ours and analysed 
+the good things and draw backs of the software. I wrote the problem
+statement and current technology as well as software description
+for a proposal report due end of next week. 
