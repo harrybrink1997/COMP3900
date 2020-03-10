@@ -15,3 +15,6 @@ on by group. I research similar software to ours and analysed
 the good things and draw backs of the software. I wrote the problem
 statement and current technology as well as software description
 for a proposal report due end of next week. 
+
+Week 3:
+Group furthered development of project. The proposal document was written on a google doc then converted to Latec by Tom. I completed the problem statement, current products, draw backs and pros, milestones development and miletone extrapolation. We also handed in the propsal and started dev on the MVP.
